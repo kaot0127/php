@@ -1,3 +1,4 @@
 [submodule "node-app"]
 	path = node-app
 	url = https://github.com/kaot0127/node-app.git
+	branch = master
